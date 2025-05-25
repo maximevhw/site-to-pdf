@@ -8,7 +8,7 @@
 
 ## Install requirements  
 ```pip install requests Pillow beautifulsoup4 playwright```  
-```playwright install-deps```
+```playwright install-deps```  
 ```playwright install```  
 
 ## run script
