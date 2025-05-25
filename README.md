@@ -10,7 +10,7 @@
 ```pip install requests Pillow beautifulsoup4 playwright```  
 
 ## run script
-```python3 site-to-pdf.py example.com```
+```python3 site-to-pdf.py https://example.com```
 
 ## deactivate venv
 ```deactivate```
