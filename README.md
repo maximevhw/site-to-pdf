@@ -12,5 +12,5 @@ pip install requests Pillow beautifulsoup4 playwright
 ## run script
 python3 example.com
 
-# deactivate venv
+## deactivate venv
 deactivate
