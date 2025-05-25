@@ -1,16 +1,16 @@
 # site-to-pdf
 
-cd site-to-pdf
+```cd site-to-pdf```
 
 ## Setup venv
-python3 -m venv venv  
-source venv/bin/activate
+```python3 -m venv venv```  
+```source venv/bin/activate```  
 
 ## Install requirements  
-pip install requests Pillow beautifulsoup4 playwright
+```pip install requests Pillow beautifulsoup4 playwright```  
 
 ## run script
-python3 example.com
+```python3 example.com```
 
 ## deactivate venv
-deactivate
+```deactivate```
